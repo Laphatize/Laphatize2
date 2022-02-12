@@ -3,7 +3,7 @@
 <h3 align="center">I'm a student passionate about programming and cybersecurity.</h3>
 
 <p align="center">
-🔭 I’m currently working on [CTFGuide](ctfguide.com)
+  🔭 I’m currently working on <a href="https://ctfguide.com/">CTFGuide</a>
 </p>
 
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laphatize&show_icons=true&locale=en&theme=radical" alt="laphatize" /></p>
